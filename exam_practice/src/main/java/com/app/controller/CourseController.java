@@ -16,6 +16,8 @@ import com.app.dto.CourseDetailsRequest;
 import com.app.dto.apiResponse;
 import com.app.service.CourseService;
 
+
+// comment added by Aniruddh
 @RestController
 @RequestMapping("/courses")
 public class CourseController {
